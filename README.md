@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 
 UAV Autonomous Navigation Development assignment.
 
